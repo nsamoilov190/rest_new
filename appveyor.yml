@@ -1,2 +1,2 @@
 version: 1.0.{build}
-chmod +x gradlew:
+chmod +x gradlew
